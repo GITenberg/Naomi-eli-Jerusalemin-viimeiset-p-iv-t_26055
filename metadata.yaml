@@ -1,0 +1,29 @@
+_repo: Naomi-eli-Jerusalemin-viimeiset-p-iv-t_26055
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webb-Peploe, Mrs. (Annie)
+    alias: Peploe, Annie Molyneaux
+    birthdate: 1805
+    deathdate: 1880
+    gutenberg_agent_id: '31765'
+    url: http://www.gutenberg.org/2009/agents/31765
+description: ''
+gutenberg_issued: '2008-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26055'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sieges -- Fiction'
+- !lcsh 'Jerusalem -- History -- Siege, 70 A.D. -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+title: Naomi eli Jerusalemin viimeiset päivät
+url: http://www.gutenberg.org/ebooks/26055
